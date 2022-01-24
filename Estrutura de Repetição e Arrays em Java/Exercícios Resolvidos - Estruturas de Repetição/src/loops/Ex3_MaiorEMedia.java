@@ -18,7 +18,7 @@ public class Ex3_MaiorEMedia {
             soma += numero;
 
             if(numero > maior) maior = numero;
-            count += 1;
+            count++;
         } while(count < 5);
 
         System.out.println("O maior número é: " + maior);
