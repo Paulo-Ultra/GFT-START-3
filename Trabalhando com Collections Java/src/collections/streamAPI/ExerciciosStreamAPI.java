@@ -56,7 +56,7 @@ public class ExerciciosStreamAPI {
 //                .average()
 //                .ifPresent(System.out::println);
 
-             
+
 //        System.out.println("Remova os valores ímpares: ");
 //        numerosAleatorios1.removeIf(integer -> integer % 2 != 0);
 //        System.out.println(numerosAleatorios1);
