@@ -5,7 +5,7 @@
 </p>
 
 # GFT-START#3
-Programa de Estágio da Empresa GFT em parceria com a Digital Innovation que realiza o Bootcamp.
+Programa de Estágio da Empresa GFT em parceria com a Digital Innovation One que realiza o Bootcamp.
 
 # Sobre a GFT
 
