@@ -3,6 +3,7 @@
     <img align="center" width="300" src="https://github.com/Paulo-Ultra/GFT-START-3/blob/main/GFT%20Logo.png" style="max-width:100%;">
      </a>
 </p>
+
 # GFT-START#3
 Programa de Estágio da Empresa GFT em parceria com a Digital Innovation que realiza o Bootcamp.
 
