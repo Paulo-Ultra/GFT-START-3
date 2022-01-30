@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://www.gft.com/br/pt/" target="_blank">
+    <img align="center" width="300" src="https://github.com/Paulo-Ultra/GFT-START-3/blob/main/GFT%20Logo.png" style="max-width:100%;">
+     </a>
+</p>
 # GFT-START#3
 Programa de Estágio da Empresa GFT em parceria com a Digital Innovation que realiza o Bootcamp.
 
@@ -10,3 +15,9 @@ Fundada em 1987, a GFT conta com uma equipe global de aproximadamente 5.000 cola
 # Sobre a Dio
 
 No final de 2018, notando a demanda por profissionais da área, tiveram a ideia de criar uma plataforma de educação gratuita. Assim, nascia a DIO (Digital Innovation One), uma escola de programação que conecta seus alunos a empresas em busca de mão de obra tecnológica. (fonte: https://revistapegn.globo.com/Startups/noticia/2021/02/exclusivo-dio-plataforma-gratuita-de-educacao-que-conecta-desenvolvedores-empresas-recebe-aporte-de-r-35-milhoes.html)
+
+<p align="center">
+  <a href="https://www.gft.com/br/pt/" target="_blank">
+    <img align="center" width="300" src="https://github.com/Paulo-Ultra/GFT-START-3/blob/main/GFT%20Logo.png" style="max-width:100%;">
+     </a>
+</p>
